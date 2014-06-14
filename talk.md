@@ -76,7 +76,7 @@ pull
 ##Side-topic: SSH
 ```bash
 ssh-keygen
-ssh -T git@<server>
+[ssh -T git@<server>](https://help.github.com/articles/generating-ssh-keys)
 ```
 
 
@@ -101,5 +101,5 @@ ssh -T git@<server>
 - [Version control best-practices](https://blog.rainforestqa.com/2014-05-28-version-control-best-practices/)
 - [Git book](http://git-scm.com/book)
 - [Git for windows](http://msysgit.github.io/)
-[Git for Visual Studio](http://visualstudiogallery.msdn.microsoft.com/abafc7d6-dcaa-40f4-8a5e-d6724bdb980c)
+- [Git for Visual Studio](http://visualstudiogallery.msdn.microsoft.com/abafc7d6-dcaa-40f4-8a5e-d6724bdb980c)
 
