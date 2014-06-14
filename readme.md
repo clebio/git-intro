@@ -10,3 +10,10 @@ beginner- to intermediate-level material.
 4. remote (and SSH keys), clone
 5. pull, push, merge
 6. pull requests
+
+# References
+[Version control best-practices](https://blog.rainforestqa.com/2014-05-28-version-control-best-practices/)
+[Git book](http://git-scm.com/book)
+[Git for windows](http://msysgit.github.io/)
+[Git for Visual Studio](http://visualstudiogallery.msdn.microsoft.com/abafc7d6-dcaa-40f4-8a5e-d6724bdb980c)
+
