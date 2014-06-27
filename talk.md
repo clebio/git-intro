@@ -40,8 +40,8 @@ commit
 ```bash
 status
 log
-checkout
-reset (--hard)
+diff
+reset (--hard, HEAD^)
 ```
 
 
@@ -52,7 +52,7 @@ reset (--hard)
 ##Commands
 ```bash
 branch
-checkout -b
+checkout (-b)
 merge
 ```
 
