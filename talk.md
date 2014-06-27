@@ -57,8 +57,8 @@ merge
 ```
 
 
-#Collaborating
-![remotes and origin](git_remote.png)
+#Working Remote
+![remotes and origin](git_remote-su.png)
 
 
 ##Commands
@@ -94,6 +94,10 @@ ssh-keygen
   - Separate intents across commits
 - Use multiple commits back-to-back for unrelated changes
 - Use branches liberally -- for anything more than minor edits
+
+
+#Collaborating
+![remotes and origin](git_remote.png)
 
 
 # References
