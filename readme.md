@@ -1,7 +1,7 @@
 #Introduction to Git
 A presentation on using Git for version control of source code. Covers 
-beginner- to intermediate-level material.
-
+beginner- to intermediate-level material. The main body of this talk itself
+lives in the *[talk.md](talk.md)* file here.
 #Outline
 
 1. init, add, commit
