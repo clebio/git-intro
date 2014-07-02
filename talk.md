@@ -76,8 +76,8 @@ pull
 ##Side-topic: SSH
 ```bash
 ssh-keygen
-[ssh -T git@<server>](https://help.github.com/articles/generating-ssh-keys)
 ```
+[ssh -T git@github.com](https://help.github.com/articles/generating-ssh-keys)
 
 
 # Style
@@ -97,6 +97,8 @@ ssh-keygen
 
 
 #Collaborating
+
+
 ![remotes and origin](git_remote.png)
 
 
